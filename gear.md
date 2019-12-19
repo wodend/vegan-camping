@@ -14,6 +14,7 @@
 * Hair ties
 * Mess kit
 * Day bag
+* Deoderant 
 
 ## Climbing
 * Shoes
