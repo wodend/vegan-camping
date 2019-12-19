@@ -7,14 +7,13 @@
 * Clothing
 * Boots
 * Camp shoes
-* Camp stove
-* Lighter
 * Headlamp
 * Toothbrush
 * Toothpaste
 * Floss
 * Hair ties
 * Mess kit
+* Day bag
 
 ## Climbing
 * Shoes
@@ -24,10 +23,16 @@
 * Aluminum foil
 * Toilet paper
 * First aid kit
-* Tent
 * Water filter
 * Knife
 * Paper towels
+* Camp stove
+* Lighter
+* Cutting board
+* Cast iron pan
+* Can opener
+* Soap
+* Pokey stick attachements
 
 ## Backpacking
 * Water filter
