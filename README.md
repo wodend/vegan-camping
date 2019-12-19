@@ -1,2 +1,3 @@
 # Vegan Camping
-Vegan menus for camping
+* Camping gear
+* Vegan camping menus
